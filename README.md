@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everyone 👋
+
+My name is Gabriel.
+I'm currently learning about quantum programming.
 
 <!--
 **G-Carneiro/G-Carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Carneiro&count_private=true&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Carneiro&layout=compact&theme=dark)](https://github.com/G-Carneiro/github-readme-stats)
