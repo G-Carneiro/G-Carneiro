@@ -17,16 +17,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <a href="https://github.com/G-Carneiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=G-Carneiro&count_private=true&show_icons=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Carneiro&layout=compact&theme=dark"/>
+  </a>
 </div>
   
  
 <div align="center">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="tex.png">
+  <a href="https://www.python.org/">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  <a href="https://www.latex-project.org/">
+    <img align="center" height="30" width="40" src="tex.png">
+  </a>
 </div>
   
   ---
