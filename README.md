@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
 <div align="center">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="bottom" height="30" width="40" src="https://imgur.com/a/RBLHEYl">
+  <img align="center" height="30" width="40" src="tex.png">
 </div>
   
   ---
