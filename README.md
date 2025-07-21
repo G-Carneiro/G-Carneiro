@@ -1,7 +1,7 @@
 ### Hi everyone
 
 My name is Gabriel.
-I'm currently learning about quantum programming.
+I work as a researcher in operations research, focusing on applied projects for industry. I have experience solving problems using heuristics, mixed-integer programming (MIP), and quadratic unconstrained binary optimization (QUBO).
 
 <!--
 **G-Carneiro/G-Carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
